@@ -1,7 +1,7 @@
 @Library('pipelinelibrarydemo') _
 
-import GlobalVars
-import SampleClass
+import com.cleverbuilder.GlobalVars
+import com.cleverbuilder.SampleClass
 
 pipeline {
     agent any
